@@ -1,0 +1,106 @@
+[
+    {
+      "name": "Chemisier Blanc",
+      "description": "Un chemisier blanc en coton de haute qualité.",
+      "image": "chemisier_blanc.jpg",
+      "prix": 29.99,
+      "stock": 50,
+      "category_id": 1
+    },
+    {
+      "name": "Chemisier Bleu",
+      "description": "Un chemisier bleu élégant pour toutes les occasions.",
+      "image": "chemisier_bleu.jpg",
+      "prix": 34.99,
+      "stock": 40,
+      "category_id": 1
+    },
+    {
+      "name": "Ourson Brun",
+      "description": "Un ourson en peluche brun, doux et câlin.",
+      "image": "ourson_brun.jpg",
+      "prix": 19.99,
+      "stock": 30,
+      "category_id": 2
+    },
+    {
+      "name": "Ourson Blanc",
+      "description": "Un ourson en peluche blanc, parfait pour les câlins.",
+      "image": "ourson_blanc.jpg",
+      "prix": 19.99,
+      "stock": 30,
+      "category_id": 2
+    },
+    {
+      "name": "Panier en Osier",
+      "description": "Un panier en osier fait à la main.",
+      "image": "panier_osier.jpg",
+      "prix": 24.99,
+      "stock": 20,
+      "category_id": 3
+    },
+    {
+      "name": "Panier à Fruits",
+      "description": "Un panier idéal pour contenir des fruits.",
+      "image": "panier_fruits.jpg",
+      "prix": 14.99,
+      "stock": 25,
+      "category_id": 3
+    },
+    {
+      "name": "Panier en Bambou",
+      "description": "Un panier léger en bambou naturel.",
+      "image": "chien.jpg",
+      "prix": 19.99,
+      "stock": 20,
+      "category_id": 3
+    },
+    {
+      "name": "Panier à Linge",
+      "description": "Un panier pratique pour le linge.",
+      "image": "panier_linge.jpg",
+      "prix": 29.99,
+      "stock": 15,
+      "category_id": 3
+    },
+    {
+      "name": "Panier de Pique-Nique",
+      "description": "Un panier spacieux pour les pique-niques.",
+      "image": "panier_pique-nique.jpg",
+      "prix": 34.99,
+      "stock": 10,
+      "category_id": 3
+    },
+    {
+      "name": "Ourson dans le Panier",
+      "description": "Un adorable ourson en peluche dans un panier.",
+      "image": "ourson_panier.jpg",
+      "prix": 39.99,
+      "stock": 15,
+      "category_id": 4
+    },
+    {
+      "name": "Panier Blanc",
+      "description": "Un panier blanc élégant pour diverses utilisations.",
+      "image": "panier_blanc.jpg",
+      "prix": 22.99,
+      "stock": 20,
+      "category_id": 3
+    },
+    {
+      "name": "Panier Marron",
+      "description": "Un panier marron rustique et chic.",
+      "image": "panier_marron.jpg",
+      "prix": 22.99,
+      "stock": 20,
+      "category_id": 3
+    },
+    {
+      "name": "Tee Shirt",
+      "description": "Un tee shirt confortable en coton.",
+      "image": "tee_shirt.jpg",
+      "prix": 14.99,
+      "stock": 50,
+      "category_id": 5
+    }
+  ]

@@ -8,19 +8,32 @@ const router = express.Router();
 
 
 const userRouter = require("./user/router");
-const roleRouter = require("./role/router");
-const productRouter = require("./product/router");
-const orderProductRouter = require("./orderProduct/router");
-const orderRouter = require("./order/router");
-
-
-
 
 router.use("/user", userRouter);
+
+const roleRouter = require("./role/router");
+
 router.use("/role", roleRouter);
+
+const productRouter = require("./product/router");
+
 router.use("/product", productRouter);
+
+const orderProductRouter = require("./orderProduct/router");
+
 router.use("/orderProduct", orderProductRouter);
+
+const orderRouter = require("./order/router");
+
 router.use("/order", orderRouter);
+
+
+
+
+
+
+
+
 
 /* ************************************************************************* */
 

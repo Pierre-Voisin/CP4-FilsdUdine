@@ -10,7 +10,7 @@ const {
   destroy,
 } = require("../../../controllers/productActions");
 
-router.post("/", create);
+router.post("/:/id", create);
 router.get("/", readAll);
 router.get("/:id", read);
 router.put("/:id", update);

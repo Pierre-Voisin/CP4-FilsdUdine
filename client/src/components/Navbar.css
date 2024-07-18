@@ -1,0 +1,36 @@
+nav {
+
+
+  background-color: #E99092;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  max-height: 60px; /* Hauteur maximale de la barre de navigation */
+  overflow: hidden; /* S'assurer que tout élément dépasse ne soit pas visible */
+}
+
+nav img {
+  height: 260px; /* Taille du logo */
+  transform: translate(-165px, 1px); /* Ajustement de la position du logo */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  
+  color: #f5f2f2;
+  padding: 10px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+ 
+}
+
+

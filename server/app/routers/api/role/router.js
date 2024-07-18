@@ -8,7 +8,7 @@ const {
   read,
   update,
   destroy,
-} = require("../../../controllers/productActions");
+} = require("../../../controllers/roleActions");
 
 router.post("/", create);
 router.get("/", readAll);
